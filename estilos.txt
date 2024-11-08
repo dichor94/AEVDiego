@@ -1,0 +1,14 @@
+***GUIA DE ESTILOS***
+
+Usuario A: Este usuario deberá de hacer el estilo de la web principal con las siguientes características...
+
+Color fondo: antiquewhite (nombre del color).
+
+Tipo de letra título principal: Verdana
+Color título: seagreen (color)
+
+Tipo de letra general: Gill Sans
+
+IMPORTANTE: Se requiere que esté centrado el título principal y el contenido general del mismo. 
+
+El usuario B deberá de seguir más o menos el mismo estilo, se debe de respetar si o si el color del fondo y el título.
